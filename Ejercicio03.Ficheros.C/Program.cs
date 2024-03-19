@@ -28,7 +28,7 @@
 
             }
 
-            catch
+             catch (Exception ex)
             {
 
                 Console.WriteLine("[INFO] -> Se ha Producido Un Fallo");
